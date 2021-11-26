@@ -32,4 +32,9 @@ cd www
 npm install
 npm run start
 ```
+## 1. Export Wasm functions
+## 1. Use Js function Alert 
+## 2. Use Js Console Log
+## 3. Start Wasm at the start
+
 
