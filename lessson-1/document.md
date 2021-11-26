@@ -1,4 +1,5 @@
 ## Install
+### You should Install Rust, Npm on your computer firstly!
 Install wasm-pack
 ```
 cargo install wasm-pack
@@ -7,7 +8,7 @@ Install Cargo Project Template Generate
 ```
 cargo install cargo-generate
 ```
-[-- Requirements For MAC new CPU ---]
+[-- Requirements For MAC new CPU, should run commands below before do install cargo-generate  ---]
 ```
 brew install pkg-config
 brew install openssl
